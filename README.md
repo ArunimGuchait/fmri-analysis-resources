@@ -58,17 +58,22 @@ I tried to add specific stuff related to fMRI and fMRI data analysis, leaving ou
 09 [MRI Physics | Magnetic Resonance and Spin Echo Sequences - Johns Hopkins Radiology](https://www.youtube.com/watch?v=jLnuPKhKXVM)
 
 **Videos from Clover learning**
-	01 [What’s the difference between T1 and T2 relaxation? - MRI physics explained](https://www.youtube.com/watch?v=qrR2yoRhAmY)
-	02 [T1, T2 and Proton Density Weighting explained - MRI physics](https://www.youtube.com/watch?v=7MN18gg1g_Y)
-	03 [How does fMRI reveal which parts of the brain are active? - MRI physics explained - YouTube](https://www.youtube.com/watch?v=q7qoT2RhcDc)
-	04 [Anatomical Planes - YouTube](https://www.youtube.com/watch?v=RmhPlBdn-Po)
-	05 [MRI Cross Sectional Anatomy of the Brain (Sagittal View) - YouTube](https://www.youtube.com/watch?v=PlDrax1_sdY)
-
+> 01 [What’s the difference between T1 and T2 relaxation? - MRI physics explained](https://www.youtube.com/watch?v=qrR2yoRhAmY)
+> 
+> 02 [T1, T2 and Proton Density Weighting explained - MRI physics](https://www.youtube.com/watch?v=7MN18gg1g_Y)
+> 
+> 03 [How does fMRI reveal which parts of the brain are active? - MRI physics explained - YouTube](https://www.youtube.com/watch?v=q7qoT2RhcDc)
+> 
+> 04 [Anatomical Planes - YouTube](https://www.youtube.com/watch?v=RmhPlBdn-Po)
+> 
+> 05 [MRI Cross Sectional Anatomy of the Brain (Sagittal View) - YouTube](https://www.youtube.com/watch?v=PlDrax1_sdY)
+>
 > This channel has so many more useful videos related to the diagnostic imaging field. I just added a few which were relevant to me, but there are plenty more to explore. Also, in the above mentioned list we've got two videos specifically about T1- and T2-weighted images.
 
 **Series of lectures by Kevin Kang-Ik Cho, Harvard Medical School**
-	01 [Learn this first for neuroimaging: Introduction to MRI neuroimaging data for Neuroscience | part 1](https://youtu.be/stuKESaa6Gs?si=fCokGuzgUEEC5Yza)
-	02 [Look at Data First: Introduction to MRI Neuroimaging Data for Neuroscience | part 2](https://youtu.be/sEvr2PAw1Gc?si=PXyw6ZKxdlUczeJT)
+>01 [Learn this first for neuroimaging: Introduction to MRI neuroimaging data for Neuroscience | part 1](https://youtu.be/stuKESaa6Gs?si=fCokGuzgUEEC5Yza)
+>
+>02 [Look at Data First: Introduction to MRI Neuroimaging Data for Neuroscience | part 2](https://youtu.be/sEvr2PAw1Gc?si=PXyw6ZKxdlUczeJT)
 
 
 ### T1- and T2-weighted images
@@ -86,21 +91,24 @@ I tried to add specific stuff related to fMRI and fMRI data analysis, leaving ou
 > // 01 [fMRI connectivity](https://school-brainhack.github.io/modules/fmri_connectivity/)
 > // 02 [fMRI Parcellation](https://school-brainhack.github.io/modules/fmri_parcellation/)
 
-02 fMRI data analysis course taught at Nicolaus Copernicus University
-https://github.com/fMRIAnalysisCourse/fmri-analysis-course?tab=readme-ov-file
+02 [fMRI data analysis course taught at Nicolaus Copernicus University](https://github.com/fMRIAnalysisCourse/fmri-analysis-course?tab=readme-ov-file)
 > I haven't done this course. Though it seems like it's quite structured, useful and specific about fMRI data analysis, along with necessary training in Python programming.
 
 03 [Introduction to Working with MRI Data in Python: Summary and Setup](https://carpentries-incubator.github.io/SDC-BIDS-IntroMRI/)
 > For beginners venturing into neuroimaging data handling, it's a promising and practical resource.
 
 04 Series of lectures presented by Joram Soch, OvGU Magdeburg
-	01 [Lecture 1: "Preprocessing of fMRI Data" (Neuroimaging Lecture, SS 2023) - YouTube](https://www.youtube.com/watch?v=vcDm_fdNews)
-	02 [Lecture 2: "Statistical Analysis of fMRI Data" (Neuroimaging Lecture, SS 2023) - YouTube](https://www.youtube.com/watch?v=WRiNYGJMJps)
-	03 [Appendix 1: "Addendum to Preprocessing" (Neuroimaging Lecture, SS 2023)](https://www.youtube.com/watch?v=edxaeixs8k0)
-	04 [Appendix 2: "Addendum to Statistical Analysis" (Neuroimaging Lecture, SS 2023)](https://www.youtube.com/watch?v=ZVXZS5yKtUs)
-	
-An updated version of Lecture 2
-[Statistical Analysis of fMRI Data: The General Linear Model (Neuroimaging Lecture, SS 2024) - YouTube](https://www.youtube.com/watch?v=HTS1y0gRpes)
+> 01 [Lecture 1: "Preprocessing of fMRI Data" (Neuroimaging Lecture, SS 2023) - YouTube](https://www.youtube.com/watch?v=vcDm_fdNews)
+>
+> 02 [Lecture 2: "Statistical Analysis of fMRI Data" (Neuroimaging Lecture, SS 2023) - YouTube](https://www.youtube.com/watch?v=WRiNYGJMJps)
+>
+> 03 [Appendix 1: "Addendum to Preprocessing" (Neuroimaging Lecture, SS 2023)](https://www.youtube.com/watch?v=edxaeixs8k0)
+>
+> 04 [Appendix 2: "Addendum to Statistical Analysis" (Neuroimaging Lecture, SS 2023)](https://www.youtube.com/watch?v=ZVXZS5yKtUs)
+>
+> An updated version of Lecture 2
+> 
+> [Statistical Analysis of fMRI Data: The General Linear Model (Neuroimaging Lecture, SS 2024) - YouTube](https://www.youtube.com/watch?v=HTS1y0gRpes)
 
 ---
 
@@ -176,7 +184,9 @@ An updated version of Lecture 2
 > - Nipype (Neuroimaging in Python Pipelines and Ecosystem) is a framework for creating and managing complex, reproducible analysis pipelines by providing a unified interface to existing software packages (like FSL, SPM, and ANTs) as well as other Python libraries (Nilearn, NiBabel).
 
 01 [Neuroimaging in Python - Pipelines and Interfaces — nipy pipeline and interfaces package](https://nipype.readthedocs.io/en/latest/index.html#)
+
 02 [Nilearn](https://nilearn.github.io/stable/index.html)
+
 03 [Neuroimaging in Python — NiBabel 5.4.0.dev1+g3b1c7b37 documentation](https://nipy.org/nibabel/)
 
 **Tutorials**
